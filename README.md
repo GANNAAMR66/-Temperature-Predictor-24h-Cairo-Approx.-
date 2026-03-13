@@ -73,4 +73,4 @@ Open-source, free to use.
 
 ## Demo
 
-![Temperature Predictor Demo](result GUI.gif)
+![Temperature Predictor Demo](tempreture GUI.jpg)
